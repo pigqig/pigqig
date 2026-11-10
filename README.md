@@ -49,13 +49,4 @@ AI 只做工廠與辦公室**當天會按下去的事**：
 
 ---
 
-## 贊助
 
-專案若幫到你，歡迎用街口請一杯。沒有也沒關係，開源本來就給你用。
-
-1. 打開街口支付，或任何支援 TWQR 的銀行／電子支付 App  
-2. 掃描下方收款碼  
-
-也可從 GitHub Sponsor 進來：[pigqig#sponsor](https://github.com/pigqig#sponsor)
-
-<a id="sponsor"></a>
