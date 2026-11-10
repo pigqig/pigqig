@@ -1,9 +1,6 @@
 # Lee · 酷意(CoolE) AI
 
-**專精 MES。** 工廠從排程排到出貨，中間卡的工單、庫存、機台與帳，我把它們串成現場真正能跑的一條線。
-
-產品研發經理 · 15 年以上地端導入  
-郵件：[pigqig@gmail.com](mailto:pigqig@gmail.com) · 網站：[ourcoolidea.com](http://ourcoolidea.com)
+網站：[ourcoolidea.com](http://ourcoolidea.com)
 
 ---
 
@@ -58,10 +55,7 @@ AI 只做工廠與辦公室**當天會按下去的事**：
 
 1. 打開街口支付，或任何支援 TWQR 的銀行／電子支付 App  
 2. 掃描下方收款碼  
-3. 或在街口支付輸入街口代碼 **`396`**（小言）
 
 也可從 GitHub Sponsor 進來：[pigqig#sponsor](https://github.com/pigqig#sponsor)
 
 <a id="sponsor"></a>
-
-![街口支付收款碼](jkopay.png)
